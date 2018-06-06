@@ -1,6 +1,7 @@
 ---
-title: Test
-description: Test
+  title: "Test"
+  description: "Test"
+  v2: true
 
 ---
 ## Sample exercise
@@ -11,29 +12,50 @@ lang: python
 xp: 100
 skills: 2
 key: de442ff189
+
+
+
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 100
+
+key: 55da3cf4b9
+
+
+
+```
+
+***asdasdadadadasd***
 
 `@instructions`
 
+
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
